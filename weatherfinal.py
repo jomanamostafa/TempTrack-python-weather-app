@@ -255,5 +255,6 @@ label_result.pack(pady=8)
 graph_area = ctk.CTkFrame(window, fg_color=bg_color, height=250)
 graph_area.pack(pady=10, fill="x", padx=20)
 graph_area.pack_propagate(False)
+#made by Jomana Mostafa username on git: jomanamostafa
 
 window.mainloop()
