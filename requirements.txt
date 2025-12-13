@@ -1,0 +1,5 @@
+#You have to install these as for the code to work 
+requests>=2.31.0
+tkinter
+matplotlib
+Pillow>=10.0.0

@@ -23,3 +23,8 @@ Future Enhancements:
 - Development of a graphical user interface using Tkinter or PyQt.
 - Integration of multiple weather APIs for improved accuracy.
 Author: Developed by Jomana Mostafa GitHub Profile: https://github.com/jomanamostafa
+## Demo
+
+Here’s how TempTrack looks when running:
+
+![Weather App Screenshot](images/appoutput.png)
