@@ -1,13 +1,10 @@
-```markdown
 # 🌤️ TempTrack - Python Weather App
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/CustomTkinter-UI-2C3E50?style=for-the-badge" alt="UI">
-  <img src="https://img.shields.io/badge/Matplotlib-Charts-11557C?style=for-the-badge" alt="Charts">
-  <img src="https://img.shields.io/badge/Open--Meteo-API-00A4E4?style=for-the-badge" alt="API">
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License">
-</p>
+[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![CustomTkinter](https://img.shields.io/badge/CustomTkinter-UI-2C3E50?style=for-the-badge)]()
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-Charts-11557C?style=for-the-badge)]()
+[![OpenMeteo](https://img.shields.io/badge/Open--Meteo-API-00A4E4?style=for-the-badge)]()
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)]()
 
 <p align="center">
   <b>A modern desktop weather app with real-time conditions, forecasts & beautiful data visualization</b>
@@ -143,7 +140,7 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more informa
 **Jomana Mostafa**
 
 [![GitHub](https://img.shields.io/badge/GitHub-@jomanamostafa-181717?style=flat&logo=github)](https://github.com/jomanamostafa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/jomana-mostafa/)
 
 ---
 
